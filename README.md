@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Brayan Penagos</h1>
 <h3 align="center">Web Developer | Passionate about Databases</h3>
 
-- 🔭 Actualmente estoy trabajando en mi proyecto **[Gods of Eternia](https://URL-DE-TU-PROYECTO)**, como parte de mis estudios en el SENA.
+- 🔭 Actualmente estoy trabajando en mi proyecto **[Gods of Eternia](https://github.com/Brayan-01/Pagina_Gods_Of_Eternia)**, como parte de mis estudios en el SENA.
 - 🌱 Estoy aprendiendo **Next.js, React y MySQL**.
 
 <h3 align="left">Mis Estadísticas de GitHub:</h3>
