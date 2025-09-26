@@ -6,8 +6,8 @@
 
 <h3 align="left">Mis Estadísticas de GitHub:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&locale=es&theme=radical" alt="Estadísticas de Brayan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_DE_GITHUB&layout=compact&locale=es&theme=radical" alt="Lenguajes más usados" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brayan-01&show_icons=true&locale=es&theme=radical" alt="Estadísticas de Brayan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brayan-01&layout=compact&locale=es&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 <h3 align="left">Conecta conmigo:</h3>
